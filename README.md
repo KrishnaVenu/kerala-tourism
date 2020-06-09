@@ -1,2 +1,2 @@
 # kerala-tourism
-This repository file is not uploaded properly
+This repository file can't uploaded properly
